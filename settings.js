@@ -19,20 +19,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
-global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
-global.botname = 'Bixby MD'
+global.owner = ['212609536856']
+global.premium = ['212609536856']
+global.ownernomer = '212609536856'
+global.ownername = '𝑚𝑜ℎ𝑎𝑚𝑒𝑑'
+global.botname = '𝙰𝚕𝚙𝚑𝚊 𝚋𝚘𝚝 𝙼𝙳'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
-global.ig = 'https://github.com/darkalphaxteam'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/darkalphaxteam/Queen-Bixby-MD'
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
-global.packname = 'Queen Bixby MD'
-global.author = 'Thinura '
+global.ig = 'https://instagram.com/moha____me_d'
+global.region = 'Esᴘᴀɴ, ᴍᴀᴅʀɪᴅ, sᴀɴᴛɪɢᴏ ʙᴇʀɴᴀʙɪᴇᴜᴇ'
+global.sc = 'https://github.com/Killua207x/Queen-Bixby-MD'
+global.myweb = 'https://tiktok.com/@moha____me_d'
+global.packname = 'هـــز ولاڪـــيـــن مـــتـــعـــيـــقـــش'
+global.author = '[ᴍᴇᴇᴅ💙🤨][212609536856] '
 global.sessionName = 'session'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🖤','❤','💙']
 global.sp = '🚢'
 global.mess = {
     success: 'Done ✓',
